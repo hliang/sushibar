@@ -1,0 +1,24 @@
+{
+  "name": "sushibar",
+  "version": "0.0.1",
+  "description": "Sushi Bar memu logger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hliang/sushibar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hliang/sushibar/issues"
+  },
+  "homepage": "https://github.com/hliang/sushibar#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0"
+  }
+}
